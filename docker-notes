@@ -1,0 +1,1 @@
+Docker Container가 동일 network로 묶였을때 ping에 hostname이나 ip가 아니고 container 이름으로도 가능하다~!
